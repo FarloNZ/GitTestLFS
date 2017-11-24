@@ -352,3 +352,82 @@ LogInit: Object subsystem initialized
 [2017.11.24-02.57.59:721][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2017.11.24-02.57.59:721][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000031 seconds (updated 0 objects)
 [2017.11.24-02.57.59:723][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.24-03.00.34:312][409]LinterCBExtensions: Display: Starting Linter.
+[2017.11.24-03.00.34:316][409]LinterCBExtensions: Display: Linter started.
+[2017.11.24-03.00.48:636][611]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.24-03.00.50:187][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelTest_Geo" FILE="../../../../../../git_repos/GitTestLFS/Content/Maps/LevelTest_Geo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.24-03.00.50:200][611]LogSavePackage: Save=5.71ms
+[2017.11.24-03.00.50:200][611]LogSavePackage: Moving '../../../../../../git_repos/GitTestLFS/Saved/LevelTest_Geo0C2993F64524E88A76763C83546F7954.tmp' to '../../../../../../git_repos/GitTestLFS/Content/Maps/LevelTest_Geo.umap'
+[2017.11.24-03.00.50:203][611]LogSavePackage: Display: Finished SavePackage ../../../../../../git_repos/GitTestLFS/Content/Maps/LevelTest_Geo.umap
+[2017.11.24-03.00.50:203][611]LogFileHelpers: Saving map 'LevelTest_Geo' took 0.050
+[2017.11.24-03.00.50:205][611]Cmd: MAP LOAD FILE="../../../../../../git_repos/GitTestLFS/Content/Maps/LevelTest_Geo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.24-03.00.50:205][611]LightingResults: New page: Lighting Build
+[2017.11.24-03.00.50:206][611]LoadErrors: New page: Loading map: LevelTest_Geo.umap
+[2017.11.24-03.00.50:206][611]MapCheck: New page: Map Check
+[2017.11.24-03.00.50:206][611]LightingResults: New page: Lighting Build
+[2017.11.24-03.00.50:242][611]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.24-03.00.50:242][611]LogAIModule: Creating AISystem for world LevelTest_Geo
+[2017.11.24-03.00.50:250][611]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.24-03.00.50:265][611]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.24-03.00.50:299][611]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 34.386ms to complete.
+[2017.11.24-03.00.50:300][611]LogFileHelpers: Loading map 'LevelTest_Geo' took 0.096
+[2017.11.24-03.01.00:602][728]SourceControl: On branch master
+[2017.11.24-03.01.00:602][728]SourceControl: Your branch is up to date with 'origin/master'.
+[2017.11.24-03.01.00:602][728]SourceControl: Changes not staged for commit:
+[2017.11.24-03.01.00:602][728]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2017.11.24-03.01.00:602][728]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.11.24-03.01.00:602][728]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2017.11.24-03.01.00:602][728]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.11.24-03.01.00:602][728]SourceControl: 	modified:   Saved/Logs/GitTestLFS.log
+[2017.11.24-03.01.00:602][728]SourceControl: 	modified:   Saved/Logs/GitTestLFS_2.log
+[2017.11.24-03.01.00:602][728]SourceControl: Untracked files:
+[2017.11.24-03.01.00:602][728]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.11.24-03.01.00:602][728]SourceControl: 	Content/
+[2017.11.24-03.01.00:602][728]SourceControl: 	Intermediate/AssetRegistryCache/30e49709.bin
+[2017.11.24-03.01.00:602][728]SourceControl: 	Intermediate/AssetRegistryCache/311563bb.bin
+[2017.11.24-03.01.00:602][728]SourceControl: 	Intermediate/AssetRegistryCache/c90e3f55.bin
+[2017.11.24-03.01.00:602][728]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-ECF470E846942DE94A3DCD969E40DF8F/
+[2017.11.24-03.01.00:602][728]SourceControl: 	Saved/LintReports/
+[2017.11.24-03.01.00:602][728]SourceControl: 	Saved/Logs/GitTestLFS_2-backup-2017.11.24-16.00.34.log
+[2017.11.24-03.01.00:602][728]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2017.11.24-03.01.03:553][ 58]Cmd: MAP LOAD FILE="../../../../../../git_repos/GitTestLFS/Content/Maps/LevelTest_Geo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.24-03.01.03:553][ 58]LightingResults: New page: Lighting Build
+[2017.11.24-03.01.03:553][ 58]LoadErrors: New page: Loading map: LevelTest_Geo.umap
+[2017.11.24-03.01.03:555][ 58]MapCheck: New page: Map Check
+[2017.11.24-03.01.03:555][ 58]LightingResults: New page: Lighting Build
+[2017.11.24-03.01.03:562][ 58]LogAIModule: Creating AISystem for world LevelTest_Geo
+[2017.11.24-03.01.03:600][ 58]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.24-03.01.03:621][ 58]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.24-03.01.03:655][ 58]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 33.736ms to complete.
+[2017.11.24-03.01.03:656][ 58]LogFileHelpers: Loading map 'LevelTest_Geo' took 0.104
+[2017.11.24-03.01.06:398][364]LogActorFactory: Actor Factory created Cube
+[2017.11.24-03.01.06:650][392]LogActorFactory: Actor Factory created Cube
+[2017.11.24-03.01.25:217][196]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.24-03.01.38:232][591]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.24-03.01.50:374][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.24-03.01.51:307][136]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.24-03.02.12:084][609]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.24-03.02.24:924][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelTest_Geo" FILE="../../../../../../git_repos/GitTestLFS/Content/Maps/LevelTest_Geo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.24-03.02.24:942][ 67]LogSavePackage: Save=7.62ms
+[2017.11.24-03.02.24:942][ 67]LogSavePackage: Moving '../../../../../../git_repos/GitTestLFS/Saved/LevelTest_Geo45A8E21F48C96A06470B4CAE4DA5A2CA.tmp' to '../../../../../../git_repos/GitTestLFS/Content/Maps/LevelTest_Geo.umap'
+[2017.11.24-03.02.24:944][ 67]LogSavePackage: Display: Finished SavePackage ../../../../../../git_repos/GitTestLFS/Content/Maps/LevelTest_Geo.umap
+[2017.11.24-03.02.27:258][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelTest_Geo" FILE="../../../../../../git_repos/GitTestLFS/Content/Maps/LevelTest_Geo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.24-03.02.27:273][334]LogSavePackage: Save=7.37ms
+[2017.11.24-03.02.27:273][334]LogSavePackage: Moving '../../../../../../git_repos/GitTestLFS/Saved/LevelTest_GeoAFB0C7654DAB7E9E75F0AF9449E9F07F.tmp' to '../../../../../../git_repos/GitTestLFS/Content/Maps/LevelTest_Geo.umap'
+[2017.11.24-03.02.27:274][334]LogSavePackage: Display: Finished SavePackage ../../../../../../git_repos/GitTestLFS/Content/Maps/LevelTest_Geo.umap
+[2017.11.24-03.02.38:703][907]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'D:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2017.11.24-03.02.49:321][907]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.11.24-03.02.49:342][907]SourceControl: [master 215e291] Added LevelTest_Geo
+[2017.11.24-03.02.49:342][907]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2017.11.24-03.02.49:342][907]SourceControl:  create mode 100644 Content/Maps/LevelTest_Geo.umap
+[2017.11.24-03.02.49:346][907]SourceControl: Commited [master 215e291] Added LevelTest_Geo.
+[2017.11.24-03.08.46:305][  9]Cmd: MAP LOAD FILE="../../../../../../git_repos/GitTestLFS/Content/Maps/LevelTest_Geo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.24-03.08.46:305][  9]LightingResults: New page: Lighting Build
+[2017.11.24-03.08.46:306][  9]LoadErrors: New page: Loading map: LevelTest_Geo.umap
+[2017.11.24-03.08.46:317][  9]MapCheck: New page: Map Check
+[2017.11.24-03.08.46:317][  9]LightingResults: New page: Lighting Build
+[2017.11.24-03.08.46:326][  9]LogAIModule: Creating AISystem for world LevelTest_Geo
+[2017.11.24-03.08.46:374][  9]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.24-03.08.46:394][  9]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.24-03.08.46:429][  9]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 35.394ms to complete.
+[2017.11.24-03.08.46:430][  9]LogFileHelpers: Loading map 'LevelTest_Geo' took 0.125
